@@ -17,7 +17,7 @@ For VLSM, we will use 10.60.0.0 as our base IP
 
 After calculating, we get that the largest netmask is /19, so we will start craeting the tree from /19
 
-![Topologi VLSM I03](https://github.com/ghifarit53/Jarkom-Modul-4-I03-2023/assets/59758342/1c2a7c93-ebdd-4cf7-97d1-a77efe0f7185)
+![VLSM I03](https://github.com/ghifarit53/Jarkom-Modul-4-I03-2023/assets/59758342/ef1e4e83-007a-4188-b5fb-35d5898bd269)
 
 And here's the IP distribution result of the VLSM method
 
